@@ -1,2 +1,4 @@
 # cv
-hello world, this is my homework page for my school
+hello world, 
+I am Ceren İlkan 
+and this is my homework page for my school
